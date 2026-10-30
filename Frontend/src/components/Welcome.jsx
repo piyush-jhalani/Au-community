@@ -98,7 +98,7 @@ function Welcome() {
         {/* Right Search & Actions */}
         <div className="welcome-nav-actions">
           <Link to="/login" className="btn-nav-outline">Login</Link>
-          <Link to="/signup" className="btn-nav-orange">Join Now</Link>
+          <Link to="/register" className="btn-nav-orange">Join Now</Link>
         </div>
       </header>
 
